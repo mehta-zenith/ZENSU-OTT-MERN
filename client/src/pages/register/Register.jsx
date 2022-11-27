@@ -36,7 +36,7 @@ export default function Register() {
         <div className="wrapper">
           <img
             className="logo"
-            src="https://cdn.discordapp.com/attachments/1046350340284502036/1046356250373394452/zensu.png"
+            src="https://cdn.discordapp.com/attachments/1046350340284502036/1046358936976113694/zensu3.png"
             alt=""
           />
          

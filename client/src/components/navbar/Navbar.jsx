@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="container">
         <div className="left">
           <img
-            src="https://cdn.discordapp.com/attachments/828162861557088276/1045993021969289237/image.png"
+            src="https://cdn.discordapp.com/attachments/1046350340284502036/1046358936976113694/zensu3.png"
             alt=""
           />
           <Link to="/" className="link">
